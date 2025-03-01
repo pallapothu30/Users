@@ -1,0 +1,14 @@
+Design a REST API - JSON
+
+
+GET - /users - render HTML document.
+
+GET - /api/users - list all users
+GET -/api/users/1 - list user with id 1.
+GET -/api/users/2 - list user with id 2.
+
+POST /api/users - create new user
+
+PATCH - /api/users/1 - edit details of user 1.
+
+DELETE - /api/users/1 - delete user with id 1.
